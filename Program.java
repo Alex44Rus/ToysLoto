@@ -42,7 +42,5 @@ public class Program {
         toyStore.saveToyForLottery();
         toyStore.saveToyForLottery();
         toyStore.saveToyForLottery();
-        
-
-    }
+  }
 }
