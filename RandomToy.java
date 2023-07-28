@@ -17,5 +17,4 @@ public class RandomToy {
         }
         throw new RuntimeException("Ops..игрушки закончились.");
     }
-
 }
